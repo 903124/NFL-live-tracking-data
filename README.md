@@ -1,0 +1,1 @@
+The repository contains live data scraped from [NFL next gen stat website](https://nextgenstats.nfl.com) during primetime game
